@@ -1,1 +1,1 @@
-My project folder gather all my public projects on github
+This folder is my project folder gather all my public projects on github
